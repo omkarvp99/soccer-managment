@@ -1,4 +1,7 @@
 # soccer-managment
+This project is completed under guidance of my course instructor Emmanuel Henri.
+The corse is offered from Linkdin Learning.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # To run project:
