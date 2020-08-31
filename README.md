@@ -15,16 +15,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 3. Postman - for API call testing
 
 # For backend testing:
-cd backend
-npm start
+1. cd backend
+2. npm start
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 You can use Postman for testing purpose. Its great.
 
 # For front-end integration-testing:
-cd frontend
-npm start
+1. cd frontend
+2. npm start
 
 Open [http://localhost:4000](http://localhost:4000) to view it in the browser.
 
