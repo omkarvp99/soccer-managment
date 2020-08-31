@@ -25,6 +25,7 @@ You can use Postman for testing purpose. Its great.
 # For front-end integration-testing:
 cd frontend
 npm start
+
 Open [http://localhost:4000](http://localhost:4000) to view it in the browser.
 
 
